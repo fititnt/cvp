@@ -9,6 +9,8 @@ PHP | cURL
 
 ------- Changelog -------
 
+- 2011-10-01: 0.1alpha
+! Fist Draft
 
 CHANGELOG LEGEND:
 + Added
